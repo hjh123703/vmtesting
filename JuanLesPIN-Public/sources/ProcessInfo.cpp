@@ -1,5 +1,4 @@
 #include "ProcessInfo.h"
-#include <math.h>
 
 W::PULONG sizeOfImageAddress = 0x0;
 

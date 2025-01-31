@@ -60,4 +60,9 @@
       <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="sources\peb.asm">
+      <Filter>Sources</Filter>
+    </None>
+  </ItemGroup>
 </Project>

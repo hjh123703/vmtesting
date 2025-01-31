@@ -1,8 +1,9 @@
 ﻿#include "Utils.h"
+#include <windows.h>
 #include <iostream>
 #include "winerror.h"
-
 #include <string>
+
 
 
 
@@ -222,14 +223,21 @@ std::wstring GetKeyPathFromKKEY(W::HKEY key)
 	return keyPath;
 }
 
+extern "C" void* GetPEB(); // Function defined in the assembly file
 
 Complete_PEB* FindPEBAddress(W::HANDLE hProcess) {
+#ifdef _WIN64
+	void* peb = GetPEB();
+	Complete_PEB* res = reinterpret_cast<Complete_PEB*>(peb);;
+	return res;
+#else
 	Complete_PEB* peb;
 	__asm {
 		mov eax, fs:30h
 		mov peb, eax
 	}
     return peb;
+#endif
 }
 
 INT32 Usage()
@@ -271,7 +279,7 @@ W::DWORD GetProcessIdFromName(W::LPCTSTR szProcessName)
 	{
 		
 		W::CloseHandle(hSnapshot);
-		MYERROR("Unable to find Id of process %s", szProcessName);
+		ERROR("Unable to find Id of process %s", szProcessName);
 		return 0;
 	}
 
@@ -300,7 +308,7 @@ W::DWORD GetProcessIdFromName(W::LPCTSTR szProcessName)
 	// _tprintf(_T("\n-> Process %s is not running on this system ..."), szProcessName);
 
 	W::CloseHandle(hSnapshot);
-	MYERROR("Unable to find Id of process %s", szProcessName);
+	ERROR("Unable to find Id of process %s", szProcessName);
 	return 0;
 }
 
@@ -323,7 +331,7 @@ set<W::DWORD> GetProcessIdsFromName(W::LPCTSTR szProcessName)
 	{
 
 		W::CloseHandle(hSnapshot);
-		MYERROR("Unable to find Id of process %s", szProcessName);
+		ERROR("Unable to find Id of process %s", szProcessName);
 		return setOfPids;
 	}
 
@@ -495,13 +503,13 @@ void* memmem(const void* haystack_start, size_t haystack_len, const void* needle
 	const unsigned char* n = NULL;
 	size_t x = needle_len;
 
-	// The first occurrence of the empty string is deemed to occur at
-	//the beginning of the string.  
+	/* The first occurrence of the empty string is deemed to occur at
+	the beginning of the string.  */
 	if (needle_len == 0)
 		return (void*)haystack_start;
 
-	// Sanity check, otherwise the loop might search through the whole
-	//	memory.  
+	/* Sanity check, otherwise the loop might search through the whole
+		memory.  */
 	if (haystack_len < needle_len)
 		return NULL;
 
@@ -531,7 +539,6 @@ void* memmem(const void* haystack_start, size_t haystack_len, const void* needle
 	return NULL;
 }
 
-
 void procDump(string filename)
 {
 	char cmdLine[CMDLINESIZE];
@@ -558,7 +565,7 @@ std::string getDllName(const std::string& str)
 	if (ext >= len) return "";
 
 	std::string name = str.substr(found + 1, ext - (found + 1));
-	std::transform(name.begin(), name.end(), name.begin(), [](unsigned char c) { return std::tolower(c); });
+	std::transform(name.begin(), name.end(), name.begin(), std::tolower);
 	return name;
 }
 

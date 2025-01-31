@@ -29,11 +29,10 @@ VOID memWriteCheckerBefore(ADDRINT writtenAddress, ADDRINT writtenByte) {
 }
 
 VOID PIN_FAST_ANALYSIS_CALL memWriteCheckerAfter(ADDRINT writtenAddress, unsigned char * oldByte) {
-    /*
+    /*  
         We want to be sure (to avoid false positives)
         that the address has been overwritten the PE Header with a different value! 
     */
-    
     if (writtenAddress < procInfo->baseAddress + 0x1000 && writtenAddress >= procInfo->baseAddress) {
         unsigned char byte[1];
         PIN_SafeCopy(byte, (VOID*)writtenAddress, sizeof(unsigned char));
@@ -42,7 +41,6 @@ VOID PIN_FAST_ANALYSIS_CALL memWriteCheckerAfter(ADDRINT writtenAddress, unsigne
             MYINFO("WRITEONPEHEADEROFFSET", "%d", writtenAddress - procInfo->baseAddress);
         }
     }
-    
 }
 
 EXCEPT_HANDLING_RESULT ExceptionHandler(THREADID tid, EXCEPTION_INFO* pExceptInfo, PHYSICAL_CONTEXT* pPhysCtxt, VOID* v)
@@ -197,7 +195,7 @@ VOID onImageLoad(IMG img, VOID* v) {
         }
 
         /* Hook library calls in this module */
-        //hooksHandler->hookApiInThisLibrary(img);
+        hooksHandler->hookApiInThisLibrary(img);
     }
     PIN_UnlockClient();
 }

@@ -42,7 +42,7 @@ void SyscallHooks::enumSyscalls(map<string, syscall_hook> syscallsHooks)
     }
     
     for (auto it = missingSyscalls.begin(); it != missingSyscalls.end(); ++it) {
-        MYERROR("Unable to find syscall: %s", it->c_str());
+        ERROR("Unable to find syscall: %s", it->c_str());
     }
 }
 

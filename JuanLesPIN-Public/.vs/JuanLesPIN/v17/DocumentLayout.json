@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|solutionrelative:sources\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\JuanLesPIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|solutionrelative:sources\\JuanLesPIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B008B4-3071-42D0-AC85-60E66A001962}|Honeypot\\Honeypot.vcxproj|C:\\pin\\source\\tools\\JuanLesPIN-Public\\Honeypot\\Honeypot.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7B008B4-3071-42D0-AC85-60E66A001962}|Honeypot\\Honeypot.vcxproj|solutionrelative:Honeypot\\Honeypot.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\HooksHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|solutionrelative:sources\\HooksHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pin\\evasion-report-honeypot-45520-18288.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\fpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{639EF517-FCFC-408E-9500-71F0DC0458DB}|MyPinTool.vcxproj|solutionrelative:sources\\fpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pin\\evasion-report-45520.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Honeypot.vcxproj.filters",
+              "DocumentMoniker": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\Honeypot\\Honeypot.vcxproj.filters",
+              "RelativeDocumentMoniker": "Honeypot\\Honeypot.vcxproj.filters",
+              "ToolTip": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\Honeypot\\Honeypot.vcxproj.filters",
+              "RelativeToolTip": "Honeypot\\Honeypot.vcxproj.filters",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T13:16:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\Utils.cpp",
+              "RelativeDocumentMoniker": "sources\\Utils.cpp",
+              "ToolTip": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\Utils.cpp",
+              "RelativeToolTip": "sources\\Utils.cpp",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAANoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T13:08:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HooksHandler.cpp",
+              "DocumentMoniker": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\HooksHandler.cpp",
+              "RelativeDocumentMoniker": "sources\\HooksHandler.cpp",
+              "ToolTip": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\HooksHandler.cpp",
+              "RelativeToolTip": "sources\\HooksHandler.cpp",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAF4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T20:36:55.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuanLesPIN.cpp",
+              "DocumentMoniker": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\JuanLesPIN.cpp",
+              "RelativeDocumentMoniker": "sources\\JuanLesPIN.cpp",
+              "ToolTip": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\JuanLesPIN.cpp",
+              "RelativeToolTip": "sources\\JuanLesPIN.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T20:36:45.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "evasion-report-honeypot-45520-18288.json",
+              "DocumentMoniker": "C:\\pin\\evasion-report-honeypot-45520-18288.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\evasion-report-honeypot-45520-18288.json",
+              "ToolTip": "C:\\pin\\evasion-report-honeypot-45520-18288.json",
+              "RelativeToolTip": "..\\..\\..\\evasion-report-honeypot-45520-18288.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:28:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "evasion-report-45520.json",
+              "DocumentMoniker": "C:\\pin\\evasion-report-45520.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\evasion-report-45520.json",
+              "ToolTip": "C:\\pin\\evasion-report-45520.json",
+              "RelativeToolTip": "..\\..\\..\\evasion-report-45520.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:27:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fpu.cpp",
+              "DocumentMoniker": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\fpu.cpp",
+              "RelativeDocumentMoniker": "sources\\fpu.cpp",
+              "ToolTip": "C:\\pin\\source\\tools\\JuanLesPIN-Public\\sources\\fpu.cpp",
+              "RelativeToolTip": "sources\\fpu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T15:26:45.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

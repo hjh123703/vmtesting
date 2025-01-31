@@ -329,7 +329,6 @@ RTN my_RTN_FindByName(IMG img, const CHAR* funcNameC_str)
 	}
 	return RTN_Invalid();
 }
-
 /* ------------------ API HOOK FUNCTIONS --------------------- */
 
 void HooksHandler::hookApiInThisLibrary(IMG img)
