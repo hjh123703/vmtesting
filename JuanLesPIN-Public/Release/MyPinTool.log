@@ -1,0 +1,498 @@
+﻿clang-cl : warning : argument unused during compilation: '/F P:strict' [-Wunused-command-line-argument]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:2:
+  In file included from ..\..\..\extras\cxx\include\map:481:
+  In file included from ..\..\..\extras\cxx\include\__tree:14:
+  In file included from ..\..\..\extras\cxx\include\iterator:418:
+  In file included from ..\..\..\extras\cxx\include\iosfwd:95:
+  In file included from ..\..\..\extras\crt\include\wchar.h:37:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:2:
+  In file included from ..\..\..\extras\cxx\include\map:481:
+  In file included from ..\..\..\extras\cxx\include\__tree:14:
+  In file included from ..\..\..\extras\cxx\include\iterator:419:
+  In file included from ..\..\..\extras\cxx\include\__functional_base:15:
+  In file included from ..\..\..\extras\cxx\include\typeinfo:61:
+  In file included from ..\..\..\extras\cxx\include\exception:83:
+  In file included from ..\..\..\extras\cxx\include\cstdlib:85:
+  In file included from ..\..\..\extras\crt\include\stdlib.h:39:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:6:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:6:
+  In file included from .\headers\ProcessInjection.h:11:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:6:
+  In file included from .\headers\ProcessInjection.h:11:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:6:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\HooksHandler.cpp:1:
+  In file included from .\headers\HooksHandler.h:6:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+sources\HooksHandler.cpp(673,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(674,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(675,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(676,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(677,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(678,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(679,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(680,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(681,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(682,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(683,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(684,3): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(700,23): warning : ISO C++11 does not allow conversion from string literal to 'wchar_t *' [-Wwritable-strings]
+sources\HooksHandler.cpp(745,42): warning : logical not is only applied to the left hand side of this bitwise operator [-Wlogical-not-parentheses]
+sources\HooksHandler.cpp(745,42): message : add parentheses after the '!' to evaluate the bitwise operator first
+sources\HooksHandler.cpp(745,42): message : add parentheses around left hand side expression to silence this warning
+sources\HooksHandler.cpp(923,19): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+sources\HooksHandler.cpp(1361,22): warning : & has lower precedence than ==; == will be evaluated first [-Wparentheses]
+sources\HooksHandler.cpp(1361,22): message : place parentheses around the '==' expression to silence this warning
+sources\HooksHandler.cpp(1361,22): message : place parentheses around the & expression to evaluate it first
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:3:
+  In file included from ..\..\..\extras\cxx\include\iostream:37:
+  In file included from ..\..\..\extras\cxx\include\ios:214:
+  In file included from ..\..\..\extras\cxx\include\iosfwd:95:
+  In file included from ..\..\..\extras\crt\include\wchar.h:37:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:3:
+  In file included from ..\..\..\extras\cxx\include\iostream:37:
+  In file included from ..\..\..\extras\cxx\include\ios:215:
+  In file included from ..\..\..\extras\cxx\include\__locale:15:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:10:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:10:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:10:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:10:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:10:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+  In file included from sources\JuanLesPIN.cpp:1:
+  In file included from .\headers\JuanLesPIN.h:15:
+.\headers\md5.h(323,24): warning : using the result of an assignment as a condition without parentheses [-Wparentheses]
+.\headers\md5.h(323,24): message : place parentheses around the assignment to silence this warning
+.\headers\md5.h(323,24): message : use '==' to turn this assignment into an equality comparison
+sources\JuanLesPIN.cpp(296,15): warning : unused variable 'hTimer' [-Wunused-variable]
+sources\JuanLesPIN.cpp(297,15): warning : unused variable 'hTimerQueue' [-Wunused-variable]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\ProcessInfo.cpp:1:
+  In file included from .\headers\ProcessInfo.h:3:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+  In file included from ..\..\..\extras\crt\include\string.h:39:
+  In file included from ..\..\..\extras\crt\include\malloc.h:32:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\ProcessInfo.cpp:1:
+  In file included from .\headers\ProcessInfo.h:3:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\Utils.cpp:1:
+  In file included from .\headers\Utils.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+  In file included from ..\..\..\extras\crt\include\string.h:39:
+  In file included from ..\..\..\extras\crt\include\malloc.h:32:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\Utils.cpp:1:
+  In file included from .\headers\Utils.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\Utils.cpp:1:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\Utils.cpp:1:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\Utils.cpp:1:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\Utils.cpp:1:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\Utils.cpp:1:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+sources\Utils.cpp(161,57): warning : format specifies type 'unsigned int' but the argument has type 'W::DWORD' (aka 'unsigned long') [-Wformat]
+sources\Utils.cpp(461,26): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+sources\Utils.cpp(474,13): warning : unused variable 'moduleHandle' [-Wunused-variable]
+sources\Utils.cpp(487,1): warning : non-void function does not return a value in all control paths [-Wreturn-type]
+sources\Utils.cpp(543,71): warning : format specifies type 'int' but the argument has type 'W::DWORD' (aka 'unsigned long') [-Wformat]
+sources\Utils.cpp(540,25): warning : unused variable 'sa' [-Wunused-variable]
+sources\Utils.cpp(581,3): warning : implicit conversion from 'long long' to 'DWORD' (aka 'unsigned long') changes value from 1099511627776 to 0 [-Wconstant-conversion]
+sources\Utils.cpp(597,3): warning : format specifies type 'int' but the argument has type 'ULONG' (aka 'unsigned long') [-Wformat]
+sources\Utils.cpp(597,25): warning : format specifies type 'int' but the argument has type 'ULONG' (aka 'unsigned long') [-Wformat]
+sources\Utils.cpp(598,3): warning : format specifies type 'int' but the argument has type 'ULONG' (aka 'unsigned long') [-Wformat]
+sources\Utils.cpp(598,33): warning : format specifies type 'int' but the argument has type 'ULONG' (aka 'unsigned long') [-Wformat]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+  In file included from ..\..\..\extras\crt\include\string.h:39:
+  In file included from ..\..\..\extras\crt\include\malloc.h:32:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:4:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:4:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:4:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:4:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\fpu.cpp:1:
+  In file included from .\headers\fpu.h:4:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+  In file included from ..\..\..\extras\crt\include\string.h:39:
+  In file included from ..\..\..\extras\crt\include\malloc.h:32:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:11:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:11:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\ProcessInjection.cpp:1:
+  In file included from .\headers\ProcessInjection.h:11:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+sources\ProcessInjection.cpp(18,28): warning : unused variable 'sa' [-Wunused-variable]
+sources\ProcessInjection.cpp(172,14): warning : unused variable 'TotalBytesAvail' [-Wunused-variable]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:3:
+  In file included from ..\..\..\extras\cxx\include\iostream:37:
+  In file included from ..\..\..\extras\cxx\include\ios:214:
+  In file included from ..\..\..\extras\cxx\include\iosfwd:95:
+  In file included from ..\..\..\extras\crt\include\wchar.h:37:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:3:
+  In file included from ..\..\..\extras\cxx\include\iostream:37:
+  In file included from ..\..\..\extras\cxx\include\ios:215:
+  In file included from ..\..\..\extras\cxx\include\__locale:15:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:9:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:9:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:9:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:9:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\Report.cpp:1:
+  In file included from .\headers\Report.h:9:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+sources\Report.cpp(170,15): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+sources\Report.cpp(173,15): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+sources\Report.cpp(176,15): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+  warning: unknown warning option '-Wl,--trace-symbol=_memmem' [-Wunknown-warning-option]
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+  In file included from ..\..\..\extras\crt\include\string.h:39:
+  In file included from ..\..\..\extras\crt\include\malloc.h:32:
+  In file included from ..\..\..\extras\crt\include\stdio.h:63:
+  In file included from ..\..\..\extras\crt\include\os-apis.h:30:
+..\..\..\extras\crt\include\types_marker.h(53,9): warning : unknown pragma ignored [-Wunknown-pragmas]
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:2:
+  In file included from ..\..\include\pin\pin.H:11:
+  In file included from ..\..\..\extras\cxx\include\string:511:
+  In file included from ..\..\..\extras\cxx\include\string_view:179:
+  In file included from ..\..\..\extras\cxx\include\__string:57:
+  In file included from ..\..\..\extras\cxx\include\algorithm:651:
+  In file included from ..\..\..\extras\cxx\include\cstring:60:
+..\..\..\extras\crt\include\string.h(121,19): warning : 'memcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(122,19): warning : 'memcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(123,19): warning : 'memset' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(124,19): warning : 'strcat' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(125,19): warning : 'strcmp' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(126,19): warning : 'strcpy' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+..\..\..\extras\crt\include\string.h(127,19): warning : 'strlen' is not a recognized builtin; consider including <intrin.h> to access non-builtin intrinsics [-Wignored-pragma-intrinsic]
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:18:
+.\headers\Utils.h(8,10): warning : non-portable path to file '"tchar.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:18:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(209,10): warning : 'htons' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1816,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:18:
+  In file included from .\headers\Utils.h:10:
+  In file included from ..\..\..\extras\crt\include\sys/stat.h:42:
+  In file included from ..\..\..\extras\crt\include\endian.h:31:
+..\..\..\extras\crt\include\sys/endian.h(211,10): warning : 'ntohs' redeclared without 'dllimport' attribute: previous 'dllimport' ignored [-Winconsistent-dllimport]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): message : previous declaration is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1988,1): message : previous attribute is here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(94,29): message : expanded from macro 'WINSOCK_API_LINKAGE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(199,36): message : expanded from macro 'DECLSPEC_IMPORT'
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:18:
+.\headers\Utils.h(14,10): warning : non-portable path to file '<Windows.h>'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+.\headers\Utils.h(41,9): warning : 'CONTAINING_RECORD' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9): message : previous definition is here
+  In file included from sources\SyscallHooks.cpp:1:
+  In file included from .\headers\SyscallHooks.h:18:
+.\headers\Utils.h(68,9): warning : 'INVALID_HANDLE_VALUE' macro redefined [-Wmacro-redefined]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9): message : previous definition is here
+sources\SyscallHooks.cpp(154,34): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+sources\SyscallHooks.cpp(443,35): warning : ISO C++11 does not allow conversion from string literal to 'char *' [-Wwritable-strings]
+  MyPinTool.vcxproj -> C:\pin\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll

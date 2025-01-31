@@ -1,0 +1,2 @@
+C:\pin_llvm\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll
+C:\pin\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll
