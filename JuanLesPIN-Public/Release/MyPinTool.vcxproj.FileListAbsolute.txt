@@ -1,2 +1,0 @@
-C:\pin\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll
-C:\pin_msvc\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll
