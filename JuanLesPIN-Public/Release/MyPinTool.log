@@ -1,0 +1,363 @@
+﻿cl : command line  warning D9025: overriding '/fp:precise' with '/fp:strict'
+  HooksHandler.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/HooksHandler.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/HooksHandler.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/HooksHandler.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/HooksHandler.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/HooksHandler.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/HooksHandler.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/HooksHandler.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/HooksHandler.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\HooksHandler.cpp(1361,22): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  JuanLesPIN.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/JuanLesPIN.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/JuanLesPIN.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/JuanLesPIN.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/JuanLesPIN.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/JuanLesPIN.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/JuanLesPIN.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/JuanLesPIN.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/JuanLesPIN.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+  ProcessInfo.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInfo.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInfo.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInfo.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/ProcessInfo.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/ProcessInfo.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/ProcessInfo.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+  Utils.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Utils.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Utils.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Utils.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/Utils.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/Utils.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/Utils.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/Utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/Utils.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(275,3): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(304,2): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(327,3): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(581,3): warning C4305: 'argument': truncation from '__int64' to 'W::DWORD'
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(581,3): warning C4309: 'argument': truncation of constant value
+  fpu.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/fpu.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/fpu.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/fpu.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/fpu.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/fpu.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/fpu.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/fpu.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/fpu.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+  ProcessInjection.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInjection.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInjection.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/ProcessInjection.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/ProcessInjection.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/ProcessInjection.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/ProcessInjection.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/ProcessInjection.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/ProcessInjection.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+  Report.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Report.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Report.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/Report.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/Report.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/Report.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/Report.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/Report.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/Report.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+  SyscallHooks.cpp
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(105,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/SyscallHooks.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(238,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/SyscallHooks.cpp')
+  
+C:\pin_3.31_msvc_success_v143\source\include\pin\gen\pinsync.hpp(842,1): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  (compiling source file 'sources/SyscallHooks.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(190,9): warning C4005: 'timerisset': macro redefinition
+  (compiling source file 'sources/SyscallHooks.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(48,9):
+      see previous definition of 'timerisset'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(191,9): warning C4005: 'timercmp': macro redefinition
+  (compiling source file 'sources/SyscallHooks.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(51,9):
+      see previous definition of 'timercmp'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(194,9): warning C4005: 'timerclear': macro redefinition
+  (compiling source file 'sources/SyscallHooks.cpp')
+      C:\pin_3.31_msvc_success_v143\extras\crt\include\sys\time.h(45,9):
+      see previous definition of 'timerclear'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(41,9): warning C4005: 'CONTAINING_RECORD': macro redefinition
+  (compiling source file 'sources/SyscallHooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(1425,9):
+      see previous definition of 'CONTAINING_RECORD'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\headers\Utils.h(68,9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  (compiling source file 'sources/SyscallHooks.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\handleapi.h(27,9):
+      see previous definition of 'INVALID_HANDLE_VALUE'
+  
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\SyscallHooks.cpp(45,9): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\SyscallHooks.cpp(289,24): warning C4244: 'initializing': conversion from '__int64' to 'uint32_t', possible loss of data
+  Generating Code...
+C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\sources\Utils.cpp(488,1): warning C4715: 'isSuspectedModule': not all control paths return a value
+     Creating library C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.lib and object C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.exp
+crtbeginS.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+HooksHandler.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+JuanLesPIN.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+Utils.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+fpu.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+ProcessInjection.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+Report.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+SyscallHooks.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ms_dllcrt.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(message.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(util.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(exception.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(pin_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(image.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(knob.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_api_xed_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(operand_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(pin_client_replay.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(thread_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(child_process_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(internal_exception_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(symbol_win.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(util_windows.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(version.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sysfuncs_windows.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(stat.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(reg_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(val.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ext.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(bbl.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(edg.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(chunk.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(rel.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_xed_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(calling_standard_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_inits_api_xed_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sec.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(rtn.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(bigarray.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(parser.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(base_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(stripe.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(vmtool.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(debugger_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(opin_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(tls_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(pin_jit.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(image_win.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(aoti.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(complexlock.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(app.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(img.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sym.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(symbol_elf.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(reg_partial_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(comment.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_syscall_ia32_windows.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(child_process.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sm_dbginfo.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sm_ipc.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(sm_client.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(util_unicode_windows.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(cpu_info_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(reg.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(elf_windows.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(cfg.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_map_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(flags_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(regset_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(ins_reuse_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(tool_mmap.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(probe_config.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(elf_parser.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(follow_child_win_probe.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(dll_load_win_probe.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(modules_win.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+pin.lib(cfg_ia32.cpp.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+crtbeginS.obj : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  MyPinTool.vcxproj -> C:\pin_3.31_msvc_success_v143\source\tools\JuanLesPIN-Public\Release\JuanLesPIN.dll
